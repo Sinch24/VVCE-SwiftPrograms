@@ -12,9 +12,12 @@
       i) Oper command prompt or terminal and go to your project directory on your system
       
       ii) Type Command
-      git clone https://github.com/arvtechnologies/VVCE-SwiftPrograms.git .
-      Note:  to type . in above command as you are seeing as it tells that git repository will be cloned to your current directory otherwise in your directory again project directory will come and you would have two git repository here.
-      git checkout develop
+        
+        git clone https://github.com/arvtechnologies/VVCE-SwiftPrograms.git .
+        git checkout develop 
+      
+    Note:  to type . in above command as you are seeing as it tells that git repository will be cloned to your current directory otherwise in your directory again project directory will come and you would have two git repository here.
+        
       
       d) Create new branch as your username in icrackexam like.
       
