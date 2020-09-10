@@ -15,7 +15,7 @@ iv) set docker machine environment using
 v) Change directory in terminal or command promt to directory containing your dockerfile
   and create docker image from dockerfile
   
-    docker build -t swift-app
+    docker build -t swift-app     ***$ sudo docker build . -t < name >*** to tell the docker that dockerfile that has to be used is in the current directory.
 vi) Run your docker image
 
     docker run swift-app
